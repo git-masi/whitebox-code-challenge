@@ -4,7 +4,7 @@
 
 ## Run the code
 
-To run the code simply run `npm start` in your terminal
+Be sure to install all the dependencies by running `npm i`. Then to create the excel spreadsheet simply run `npm start`.
 
 **IMPORTANT NOTE:** The code creates an output.xlsx file in the project directory. If one already exists it will be deleted before a new one is created.
 
